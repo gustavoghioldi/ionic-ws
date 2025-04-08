@@ -1,0 +1,7 @@
+{
+  "name": "ionic-ws",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
