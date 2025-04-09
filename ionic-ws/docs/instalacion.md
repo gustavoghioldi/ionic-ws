@@ -27,3 +27,15 @@ para ver la version de ionic:
 ionic -v
 ```
 
+```
+git clone git@github.com:gustavoghioldi/ionic-ws.git
+```
+o 
+```
+git clone https://github.com/gustavoghioldi/ionic-ws.git
+```
+
+```
+npm install
+```
+
